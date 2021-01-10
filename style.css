@@ -121,25 +121,25 @@ label #cancel{
   overflow:hidden;
 }
 #main .main-text{
-  max-width:50%;
+  max-width:30%;
   position:absolute;
   top:50%;
-  left:0;
+  right:0;
   transform: translateY(-50%);
   background-color:rgba(0,0,0,.8);
   color:#fff;
-  padding:10rem 5rem;
+  padding:4rem 5rem;
 }
 .main-text h5{
-  font-size:5rem;
+  font-size:30px;
   font-family:'raleway',sans-serif;
   text-transform:uppercase;
   letter-spacing:3px;
   margin-bottom:2.5rem;
   color:#fff;
 }
-.text p{
-  font-size:1.6rem;
+.main-text p{
+  font-size:15px;
   font-family:oswald;
   letter-spacing:1px;
   font-weight:300;
