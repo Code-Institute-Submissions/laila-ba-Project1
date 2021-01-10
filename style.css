@@ -113,10 +113,10 @@ label #cancel{
   color:#187EF8;
 }
 #main{
-  background: url(img/mimic-gif.gif) no-repeat;
+  background: url(assets/img/mimic-gif.gif) no-repeat;
   background-position:center;
   background-size:cover;
-  width:100%;
+  width:100vh;
   transition: all .5s ease;
   overflow:hidden;
 }
