@@ -579,9 +579,11 @@ padding-bottom:100px;
   padding:10px;
   font-size:18px;
 }
-
+footer{
+  height:100px;
+}
 #social-networks{
-  text-align: right;
+  text-align: center;
   max-width:300px;
 }
  #social-networks li{
