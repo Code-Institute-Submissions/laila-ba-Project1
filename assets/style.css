@@ -43,6 +43,7 @@ label#logo {
   cursor: pointer;
 }
 nav {
+  position:fixed;
   background:#000;
   height:100px;
   width:100%;
