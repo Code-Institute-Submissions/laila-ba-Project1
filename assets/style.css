@@ -580,6 +580,7 @@ padding-bottom:100px;
   font-size:18px;
 }
 footer{
+  background: url(assets/img/footer.png);
   height:100px;
 }
 #social-networks{
