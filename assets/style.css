@@ -260,7 +260,7 @@ padding-bottom:30px;
 .skills-bar .bar .progress-line{
   position:relative;
   height:10px;
-  width;100%;
+  width:100%;
   background:#f0f0f0;
   border-radius:10px;
   transform:scaleX(0);
