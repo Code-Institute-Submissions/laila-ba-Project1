@@ -126,13 +126,8 @@ a.active{
 }
 #hero-image{
   width:100%;
-<<<<<<< HEAD
   height:900px;
   background: url(img/mimic-gif.gif) no-repeat center center;
-=======
-  height:800px;
-  background: url(img/dagger-gif.gif) no-repeat center center;
->>>>>>> 66e51bdeb6af8e36b7d79517a4295acfa5109b44
   transition: all .5s ease;
   background-size:cover;
   overflow:hidden;
