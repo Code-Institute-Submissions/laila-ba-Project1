@@ -134,9 +134,9 @@ a.active{
 }
 #hero-text{
   width:300px;
-  height:200px;
+  height:250px;
   position:absolute;
-  padding-top:40px;
+  padding-top:30px;
   padding-left:10px;
   bottom:30px;
   right:150px;
@@ -170,7 +170,9 @@ a.active{
   color:red;
   cursor:pointer;
 }
-
+.filler-div{
+  height:850px;
+}
 #resume-container{
 max-width:1000px;
 background-color:#202020;
