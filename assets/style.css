@@ -133,7 +133,7 @@ a.active{
   overflow:hidden;
 }
 #hero-text{
-  width:300px;
+  width:500px;
   height:250px;
   position:absolute;
   padding-top:30px;
@@ -157,7 +157,7 @@ a.active{
   padding:6px 14px;
 }
 #hero-text p{
-  font-size:110%;
+  font-size:15px;;
   text-align:left;
   font-family:lato;
   letter-spacing:1px;
@@ -169,6 +169,13 @@ a.active{
 #hero-text p:hover{
   color:red;
   cursor:pointer;
+}
+#hero-text h5{
+  font-family:lato;
+  text-transform:uppercase;
+  font-size:110%;
+  padding:10px 0;
+  width:300px;
 }
 .filler-div{
   height:850px;
@@ -589,7 +596,7 @@ footer{
 }
 .index-social{
   width:100%;
-  text-align:center;
+  text-align:left;
   position:relative;
   z-index:10;
 }
