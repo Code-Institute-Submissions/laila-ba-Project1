@@ -141,6 +141,7 @@ a.active{
   bottom:30px;
   right:150px;
   color:#fff;
+  background-color:rgba(0,0,0,0.7);
 
 }
 #hero-text h1{
@@ -604,8 +605,9 @@ footer{
 .index-social i{
   font-size:200%;
   margin:1%;
-  padding:0 40px;
+  padding:40px 40px;
   color:#14A8D9;
+
 }
 #social-networks{
   text-align:center;
