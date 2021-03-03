@@ -652,6 +652,7 @@ display:inline;
 @media (max-width: 400px ){
   #hero-text{
     left:0;
+    font-size:10px;
   }
   .image .details p{
     font-size:20px;
