@@ -74,5 +74,9 @@ Based off of the strategy plane and establishing the users needs, The scope plan
 
 ## Structure Plane
 
+The strcuture plane gives shape to the scope and allows me to plan out how all the features fit toegther and behave. While doing this, researching and looking into the culture of 3D art porfolios enabled me to find out how to keep the users contantly interested . I knew from the beggining that my project was going to be very rich in images more than text as that users are more interested in the pieces of art alongisde minimal text. Sources of inspiration to deeper understand the culture of 3d art came from [Husni Qamhiyeh's Portfolio.](https://husni3d.com/)
+
+After understanding more of the culture, i had established many features that the users would be expecting
+
 
 
