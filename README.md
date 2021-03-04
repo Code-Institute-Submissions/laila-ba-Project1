@@ -74,9 +74,36 @@ Based off of the strategy plane and establishing the users needs, The scope plan
 
 ## Structure Plane
 
-The strcuture plane gives shape to the scope and allows me to plan out how all the features fit toegther and behave. While doing this, researching and looking into the culture of 3D art porfolios enabled me to find out how to keep the users contantly interested . I knew from the beggining that my project was going to be very rich in images more than text as that users are more interested in the pieces of art alongisde minimal text. Sources of inspiration to deeper understand the culture of 3d art came from [Husni Qamhiyeh's Portfolio.](https://husni3d.com/)
+The strcuture plane gives shape to the scope and allows me to plan out how all the features fit toegther and behave. While doing this, researching and looking into the culture of 3D art porfolios enabled me to find out how to keep the users contantly interested . I knew from the beggining that my project was going to be very rich in images more than text as that users are more interested in the pieces of art alongisde minimal text. Sources of inspiration to deeper understand the culture of 3d art came from [Husni Qamhiyeh's Portfolio.](https://husni3d.com/) After understanding more of the culture, i had established many features that the users would be expecting such as the colour scheme.
 
-After understanding more of the culture, i had established many features that the users would be expecting
+**Colours:**
+
+- Dark grey
+- White
+- Blue
+
+The constant use of a dark background makes it more relaxing and easier to read for the users. This also blends in with the dark background colour that all the 3D pieces have.
+
+**Typography:**
+
+- Oswald
+- Lato
+
+I chose to use two different fonts throughout the project to make it appear less repetitive and boring. Both the fonts used are minimalistic and easy to read, offering the focus to go to the images.
+
+The navigation and footer are consistent throughout all sub-pages making it easy for the user to naviagte their way around the project. The navigation bar is fixed, making it always present no matter how far down the user scrolls. The elements inside the nav bar have a simple hover effect for the user to see interaction occuring.
+
+Consistent use of imagery is used throughout the project to showcase the artists work and making it evident that the artist is creative. All the images should be relatable to the content on the page and not feel forced or out of place.
+
+The typography is consistent across all pages as all text and content is centered, giving the site a clean finish.
+
+The project will be responsive across all devices, keeping text at a readable size and images not pixelated.
+
+## Skelaton Plane
+
+As part of my planning process, creating wireframes and mockups helped me to visualise my ideas and see if they would be pleasing to the eye. These are my initial conceptual ideas:
+
+**Wireframe:**
 
 
 
