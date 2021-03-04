@@ -1,4 +1,4 @@
-![home page](https://user-images.githubusercontent.com/75024926/110000611-6bb3f480-7d0b-11eb-929d-37dbfe3f5812.png)
+
 # Milestone Project1 - 3D Artist Portfolio
 
 ## Introduction-
@@ -117,4 +117,19 @@ As part of my planning process, creating wireframes and mockups helped me to vis
 ![Portfolio](https://user-images.githubusercontent.com/75024926/110000770-930ac180-7d0b-11eb-8a0b-03164a204f9d.png)
 ![conatct](https://user-images.githubusercontent.com/75024926/110000781-956d1b80-7d0b-11eb-91b0-2a770284e3bd.png)
 
+Here are the differences between the initial wireframes and mockups to m current project:
 
+-Nav bar is no longer a side bar and is instead at the top of the page.
+- I have added a logo at the top of the page.
+- I have changed the image slideshow on the landing page to a moving GIF
+- I have added minimal text on the landing page and a link to the resume page.
+- The footer is at the bottom of the page and is now blue.
+- On the contact page, all content is in the center of the page.
+- There is an animated skills bar in the resume page.
+- i added a 'get in touch' button on the reume page that links to the contact form.
+
+I chose to go ahead with these changes as i thought it would make my project a lot more appealing to the user. The changes were made as a result of my growth and learning in front-end developement as i have more of an understanding and more experience in the design and development of the project.
+
+## Surface Plane
+
+**Features that are present across the project:**
