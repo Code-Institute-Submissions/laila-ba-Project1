@@ -48,3 +48,31 @@ After doing this, i went ahead and began to establish a startegy for what i woul
 - As a returning user, I want to simply be able to contact the artist through the contact form.
 
 After looking at things from the user's perspective, i felt better prepared for developing the project as i had a better and clear understanding of what my project needed in order to satisfy the user.
+
+## Scope Plane
+
+Based off of the strategy plane and establishing the users needs, The scope plane tranforms strategy into requirements. This allowed me to plan out exactly what features my site needs to include. I decided that starting from the foundation and workig my way up to the more complex features would be the easiest and most useful approach. Also, breaking the requirments down into stages would allow me to focus on the basics first and not overwhelm myself.
+
+**Stage 1:**
+
+- A home page with a main hero image and minimal text.
+- A resume page with a summary of skills and experience.
+- A protfolio page showcasing pieces of art.
+- A contact page with a conatct form.
+
+**Stage 2:**
+
+- Expansion on content within contact page. Adding an animated skills bar.
+- Adding indicidual sub pages for every piece of art work.
+- adding nav bar and footers on all pages.
+
+**Stage 3:**
+
+- Making the project responsive
+- Adding interactive elements once i learn javascript
+
+
+## Structure Plane
+
+
+
