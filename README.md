@@ -1,3 +1,4 @@
+![home page](https://user-images.githubusercontent.com/75024926/110000611-6bb3f480-7d0b-11eb-929d-37dbfe3f5812.png)
 # Milestone Project1 - 3D Artist Portfolio
 
 ## Introduction-
@@ -103,7 +104,17 @@ The project will be responsive across all devices, keeping text at a readable si
 
 As part of my planning process, creating wireframes and mockups helped me to visualise my ideas and see if they would be pleasing to the eye. These are my initial conceptual ideas:
 
-**Wireframe:**
+**Wireframes:**
 
+![home page](https://user-images.githubusercontent.com/75024926/110000633-7078a880-7d0b-11eb-8e68-28d93d0fb559.png)
+![skills page](https://user-images.githubusercontent.com/75024926/110000656-753d5c80-7d0b-11eb-9256-22c3f80dd24f.png)
+![portfolio page](https://user-images.githubusercontent.com/75024926/110000670-78384d00-7d0b-11eb-8a65-c77dc045beb0.png)
+![contact page](https://user-images.githubusercontent.com/75024926/110000682-7b333d80-7d0b-11eb-9e02-4742417143ca.png)
+
+**Mockups:**
+![Screen 1](https://user-images.githubusercontent.com/75024926/110000755-8f773a80-7d0b-11eb-9f30-13ff7977db90.png)
+![resume](https://user-images.githubusercontent.com/75024926/110000762-9140fe00-7d0b-11eb-97be-f5abccf68f2e.png)
+![Portfolio](https://user-images.githubusercontent.com/75024926/110000770-930ac180-7d0b-11eb-8a0b-03164a204f9d.png)
+![conatct](https://user-images.githubusercontent.com/75024926/110000781-956d1b80-7d0b-11eb-91b0-2a770284e3bd.png)
 
 
