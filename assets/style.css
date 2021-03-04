@@ -141,8 +141,6 @@ a.active{
   bottom:30px;
   right:150px;
   color:#fff;
-  background-color:rgba(0,0,0,0.7);
-
 }
 #hero-text h1{
   font-size:130%;
@@ -177,8 +175,8 @@ a.active{
   font-size:110%;
   padding:10px 0;
 }
-.filler-div{
-  height:850px;
+.filler{
+  height:70px;
 }
 #resume-container{
 max-width:1000px;
@@ -605,7 +603,7 @@ footer{
 .index-social i{
   font-size:200%;
   margin:1%;
-  padding:40px 40px;
+  padding:40px 40px 0 40px;
   color:#14A8D9;
 
 }
