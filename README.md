@@ -39,8 +39,8 @@ After doing this, i went ahead and began to establish a startegy for what i woul
  
  - As a first-time user, i want to be able to easily navigate my way around the project.
  - As a first-time user, i want the content to be relevent to 3D art.
- - As a first-time user, I want to easily access the images of the art.
- - As a first-time user, i wnat to have a positive response.
+ - As a first-time user, I want to immdeidtely understand the purpose of the project
+ - As a first-time user, i want to have a positive response.
  - As a first-time user, I want to feel as though i am progressing through the project and not feeling overwhelmed with the amount of content.
  
  Goals for returning users:
@@ -119,7 +119,7 @@ As part of my planning process, creating wireframes and mockups helped me to vis
 
 Here are the differences between the initial wireframes and mockups to m current project:
 
--Nav bar is no longer a side bar and is instead at the top of the page.
+- Nav bar is no longer a side bar and is instead at the top of the page.
 - I have added a logo at the top of the page.
 - I have changed the image slideshow on the landing page to a moving GIF
 - I have added minimal text on the landing page and a link to the resume page.
@@ -174,7 +174,7 @@ I chose to go ahead with these changes as i thought it would make my project a l
 - [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
  - Used to help debug the code and help find syntax errors.
 
--[Github](https://github.com/)
+- [Github](https://github.com/)
  - Used to push and store the code.
 
 - [Atom](https://atom.io/)
@@ -194,4 +194,27 @@ I chose to go ahead with these changes as i thought it would make my project a l
  
 ## Testing
 
+**Testing User stories from User Experience Design (UX) Section**
 
+- **As a first-time user, i want to be able to easily navigate my way around the project.**
+ - Users are able to use the navigation bar located at the top of the page to navigate their way around the project. The nav bar is fixed and therefore always present no matter 
+how far down the user scrolls.
+
+![nav bar](https://user-images.githubusercontent.com/75024926/110127105-1cc69780-7dbd-11eb-8e5b-6bd90ab6537a.png)
+
+- **As a first-time user, I want to immdeidtely understand the purpose of the project**
+ - A users reach the landing page, they see a large moving GIF of 3D art, besides this, there is visable text greeting the user saying "welcome to my portfolio" "3D artist| London" This allows the user to immediately understand that this project is a portfolio for a 3D artist that is located in london.
+
+ ![gifyyy](https://user-images.githubusercontent.com/75024926/110127901-1258cd80-7dbe-11eb-86d8-fa590e990360.png)
+
+**Further Testing**
+
+- The project was tested on an iphone XR and an iphone 12 pro with success.
+- Google chrome developer tools were used to help me test repsonsivness across devices:
+ - ipad
+ - Moto G4
+ - galaxy S5
+ - Iphone 5/SE
+ - iphone 6,7,8
+ - ipad pro 
+ - surface duo
