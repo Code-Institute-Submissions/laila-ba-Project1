@@ -133,3 +133,65 @@ I chose to go ahead with these changes as i thought it would make my project a l
 ## Surface Plane
 
 **Features that are present across the project:**
+
+- The navigation bar is responsive and can be viewed on all devices as it toggles to a hamburger menu when viewed on smaller viewports. The colour black allows the content of the navbar to appear easily. The active pages have a background of grey while the others have no background. On the far left, there is a logo with white writing and a blue border.
+
+- Theres are clear house colours being used throughout the project: blue, grey, white and a little black. This makes everything flow together and no sudden bright colours are used, making the user know what to expect from the website.
+
+- The GIF on the landing page has a dark background which is consistent with all the images across the project. The dark backgrounds help the 3D objects within the image appear more vibrant and attract the users attention.
+
+- A dark backround is used on all pages to create a clear contrast with the text. This makes the text more easier to read and doesnt make the user tired to look at the pages. The user should look at the content as flowing and simple to look at.
+
+- The footer is very simple and minimalistic with no background as the social icons are in the home colour blue.
+
+- The use of two different fonts, Oswald and Lato, makes the project look less repetitive in its text. The contrast is used for the headings and normal text.
+
+**Features that i still need to add:**
+
+- Having the contact form send the users message to the artists email.
+- Once learning Javascript, i would like to add iteractive features.
+- Having the high quality pictures load fast.
+- Adding a light/dark toggle mode for the user to choose whichever option they prefer.
+- When the user hovers over the art images in the portfolio, a moving GIF will appear of that specific 3D piece.
+
+## Technologies Used
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+ - This is used a the base of the code. It structures the code and acts as the main building block
+
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+ - This allows styling to be added to the project.
+
+- [Hover.css](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/hover)
+ - Hover effect used for the social icons, nav bar, and portfolio.
+
+- [Google Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
+ - Used to obtain different fonts used across the project.
+
+- [Font Awsome](https://fontawesome.com/)
+ - Used to obtain icons used for the footer and contact page.
+
+- [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+ - Used to help debug the code and help find syntax errors.
+
+-[Github](https://github.com/)
+ - Used to push and store the code.
+
+- [Atom](https://atom.io/)
+ - Used as the IDE and the development enviroment for writing the code.
+
+- [JustInMind](https://www.justinmind.com/)
+ - Used to create wireframes.
+
+- [App.moqups](https://app.moqups.com/)
+ - Used to create the mockups
+
+- [CSS Lint](http://csslint.net/)
+ - Used as a CSS validator
+
+- [Grammarly](https://www.grammarly.com/)
+ -Used to check and correct grammatical errors across the project.
+ 
+## Testing
+
+
