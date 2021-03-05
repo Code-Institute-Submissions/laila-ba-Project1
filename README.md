@@ -13,7 +13,7 @@ One of my key main focuses while planning this project was The Elements of User-
 
 The Elements of User-Experience are broken into five different stages :
 
--The Strategy Plane
+- The Strategy Plane
 - The Scope Plane
 - The Structure Plane
 - The Skeleton Plane
@@ -156,54 +156,54 @@ I chose to go ahead with these changes as i thought it would make my project a l
 
 ## Technologies Used
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
- - This is used a the base of the code. It structures the code and acts as the main building block
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * This is used a the base of the code. It structures the code and acts as the main building block
 
-- [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
- - This allows styling to be added to the project.
+* [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+  * This allows styling to be added to the project.
 
-- [Hover.css](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/hover)
- - Hover effect used for the social icons, nav bar, and portfolio.
+* [Hover.css](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/hover)
+  * Hover effect used for the social icons, nav bar, and portfolio.
 
-- [Google Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
- - Used to obtain different fonts used across the project.
+* [Google Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
+  * Used to obtain different fonts used across the project.
 
-- [Font Awsome](https://fontawesome.com/)
- - Used to obtain icons used for the footer and contact page.
+* [Font Awsome](https://fontawesome.com/)
+  * Used to obtain icons used for the footer and contact page.
 
-- [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
- - Used to help debug the code and help find syntax errors.
+* [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+  * Used to help debug the code and help find syntax errors.
 
-- [Github](https://github.com/)
- - Used to push and store the code.
+* [Github](https://github.com/)
+  * Used to push and store the code.
 
-- [Atom](https://atom.io/)
- - Used as the IDE and the development enviroment for writing the code.
+* [Atom](https://atom.io/)
+  * Used as the IDE and the development enviroment for writing the code.
 
-- [JustInMind](https://www.justinmind.com/)
- - Used to create wireframes.
+* [JustInMind](https://www.justinmind.com/)
+  * Used to create wireframes.
 
-- [App.moqups](https://app.moqups.com/)
- - Used to create the mockups
+* [App.moqups](https://app.moqups.com/)
+  * Used to create the mockups
 
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
- - Used as a CSS validator
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+  * Used as a CSS validator
 
-- [Grammarly](https://www.grammarly.com/)
- -Used to check and correct grammatical errors across the project.
+* [Grammarly](https://www.grammarly.com/)
+  * Used to check and correct grammatical errors across the project.
  
 ## Testing
 
 **Testing User stories from User Experience Design (UX) Section**
 
-- **As a first-time user, i want to be able to easily navigate my way around the project.**
- - Users are able to use the navigation bar located at the top of the page to navigate their way around the project. The nav bar is fixed and therefore always present no matter 
+* **As a first-time user, i want to be able to easily navigate my way around the project.**
+  * Users are able to use the navigation bar located at the top of the page to navigate their way around the project. The nav bar is fixed and therefore always present no matter 
 how far down the user scrolls.
 
 ![nav bar](https://user-images.githubusercontent.com/75024926/110127105-1cc69780-7dbd-11eb-8e5b-6bd90ab6537a.png)
 
-- **As a first-time user, I want to immdeidtely understand the purpose of the project**
- - A users reach the landing page, they see a large moving GIF of 3D art, besides this, there is visable text greeting the user saying "welcome to my portfolio" "3D artist| London" This allows the user to immediately understand that this project is a portfolio for a 3D artist that is located in london.
+* **As a first-time user, I want to immdeidtely understand the purpose of the project**
+  * A users reach the landing page, they see a large moving GIF of 3D art, besides this, there is visable text greeting the user saying "welcome to my portfolio" "3D artist| London" This allows the user to immediately understand that this project is a portfolio for a 3D artist that is located in london.
 
  ![gifyyy](https://user-images.githubusercontent.com/75024926/110127901-1258cd80-7dbe-11eb-86d8-fa590e990360.png)
 
@@ -244,11 +244,11 @@ I constantly used the W3C Markup Validator and W3C CSS Validator to check for er
 
 ## Known bugs and fixes
 
-- The footer on the landing page wouldnt stay at the bottome of the page.
- - I added a filler div before the footer to push it down.
+* The footer on the landing page wouldnt stay at the bottome of the page.
+  * I added a filler div before the footer to push it down.
 
-- The image on the resume page wasnt centered and drifted to the left when viewed on smaller screens 
- - i added margin: 0 127px to ensure that it would be centered.
+* The image on the resume page wasnt centered and drifted to the left when viewed on smaller screens 
+  * i added margin: 0 127px to ensure that it would be centered.
 
-- The animated skills bar didnt appear to be responsive on mobile devices as it was too small.
- - adjusted the media query for the skills bar to @media max-width: 400px and gavei it width of 90%.
+* The animated skills bar didnt appear to be responsive on mobile devices as it was too small.
+  * adjusted the media query for the skills bar to @media max-width: 400px and gavei it width of 90%.
