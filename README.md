@@ -186,7 +186,7 @@ I chose to go ahead with these changes as i thought it would make my project a l
 - [App.moqups](https://app.moqups.com/)
  - Used to create the mockups
 
-- [CSS Lint](http://csslint.net/)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
  - Used as a CSS validator
 
 - [Grammarly](https://www.grammarly.com/)
@@ -218,3 +218,37 @@ how far down the user scrolls.
  - iphone 6,7,8
  - ipad pro 
  - surface duo
+
+I constantly used the W3C Markup Validator and W3C CSS Validator to check for errors within my code.
+
+## [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+ ![valid](https://user-images.githubusercontent.com/75024926/110130607-1803e280-7dc1-11eb-87f1-d3ff156a5cb0.png)
+ 
+## [W3C Markup Validator](https://validator.w3.org/)
+
+### Home Page
+
+![home](https://user-images.githubusercontent.com/75024926/110131335-f2c3a400-7dc1-11eb-87ee-2ec477f370e1.png)
+
+### Resume Page
+
+![resume](https://user-images.githubusercontent.com/75024926/110132030-a6c52f00-7dc2-11eb-93af-cc29b7a7266a.png)
+
+### Portfolio page
+
+![portfolio](https://user-images.githubusercontent.com/75024926/110132526-2d7a0c00-7dc3-11eb-851d-2a17fe438f11.png)
+
+### Contact page
+
+![contact](https://user-images.githubusercontent.com/75024926/110132755-6ade9980-7dc3-11eb-9880-ac4f94d468eb.png)
+
+## Known bugs and fixes
+
+- The footer on the landing page wouldnt stay at the bottome of the page.
+ - I added a filler div before the footer to push it down.
+
+- The image on the resume page wasnt centered and drifted to the left when viewed on smaller screens 
+ - i added margin: 0 127px to ensure that it would be centered.
+
+- The animated skills bar didnt appear to be responsive on mobile devices as it was too small.
+ - adjusted the media query for the skills bar to @media max-width: 400px and gavei it width of 90%.
