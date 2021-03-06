@@ -219,6 +219,11 @@ how far down the user scrolls.
  - ipad pro 
  - surface duo
 
+The project was also tested on multiple browsers to ensure that it would still work and be responsive. These browsers were: 
+* Google chrome
+* Firefox
+* Microsoft Edge 
+* Opera
 I constantly used the W3C Markup Validator and W3C CSS Validator to check for errors within my code.
 
 ## [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
