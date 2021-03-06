@@ -251,7 +251,7 @@ I constantly used the W3C Markup Validator and W3C CSS Validator to check for er
   * i added margin: 0 127px to ensure that it would be centered.
 
 * The animated skills bar didnt appear to be responsive on mobile devices as it was too small.
-  * adjusted the media query for the skills bar to @media max-width: 400px and gave it width of 90% so that it is more apparent and readable to the user.
+  * adjusted the media query for the skills bar to @media max-width: 400px and gave it width of 90% so that it is more apparent and readable to the user. 
   
 * W3C Markup Validator flagged up some errors that consisted of multiple </div> tags without an opening div.
   * I made sure to fix this error removing all empty divs that were not being used.
