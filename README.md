@@ -275,6 +275,61 @@ I constantly used the W3C Markup Validator and W3C CSS Validator to check for er
 
 This project has been deployed using github pages and i have used the following process to do so:
 
-**Deploying a GitHub Repository via GitHub Pages**
+**Publishing**
 
-* 
+* Within your repository section, choose which project you would like to deploy.
+* At the top, underneath the project name, there are a number of options such as 'code' and 'issues'
+* Choose the option 'settings'
+* Scroll down until you see the section: 'Github Pages'
+* Within this section, bellow 'source', choose which branch your project is under and then click save.
+* Once the page refreshes, go to the Github pages section and you will see "Your site is published at ...."
+* Click on the Github Pages web address and you will see your project live.
+
+**Forking**
+You can fork a project to make a copy without it affecting the main branch with this process:
+
+* login to github and find the repository that you wish to fork
+* Once you have clicked on the repository, on the top right hand side you will see three options: 'unwatch' 'star' and 'fork'
+* Once the fork button is clicked, you will then have a copy of the repository in your Github account
+
+**Cloning**
+You can clone/download your chosen repository to your local device by using this process:
+
+* Choose the Github repository that you wish to clone.
+* Chose the 'code' button at the top next top 'add file'.
+* Copy the link that you are given.
+* Open your terminal and choose the directory to the location you would like the clone to be in.
+* type in *git clone* and paste the URL you copied and then click enter.
+
+## Credits
+
+### Code
+
+* Learned the purpose of *Flex* and how to use it from [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+* Used [Stack Overflow](https://stackoverflow.com/) when having issues with code and to find solutions.
+
+* Used [Coding Nepals Youtube video](https://www.youtube.com/watch?v=0198ceyTVtg) to help me with developing the animated skills bar on the resume page.
+
+* Used [Online Tutorials Youtube](https://www.youtube.com/watch?v=gggB0Nq5vBk) to help and give me inspiration for the contact form and making it responsive.
+
+### Content
+
+* [HTML Colour Codes](https://htmlcolorcodes.com/)to help select the colours i wanted to use in my project
+
+* Gained inspiration from [Husni Qamhiyeh's Portfolio.](https://husni3d.com/)
+
+* Used the artists [Artstation Profile](https://adambahmani.artstation.com/) to gain the content for his resume text and all his listed skills.
+
+A large part of my inspiration for my project came from the above sites as they helped to sculpt out my idea into code.
+
+### Media
+
+* All images were downloaded directly from the artists [Artstation Profile](https://adambahmani.artstation.com/).
+
+* The GIF on the landing page was given to me directly from the artist as the quality was quite high.
+
+## Acknowledgements
+
+* Big thank you to everybody who has gone through this long readme and been patient. A large part of this project was done independantly of course however, the slack community, my mentor and my tutor were extremely helpful along the way with frustrating pieces of code that would not work! That being said, I hope you all enjoy my project :)
+
