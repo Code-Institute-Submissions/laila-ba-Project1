@@ -233,19 +233,23 @@ I constantly used the W3C Markup Validator and W3C CSS Validator to check for er
 
 ### Home Page
 
-![home](https://user-images.githubusercontent.com/75024926/110131335-f2c3a400-7dc1-11eb-87ee-2ec477f370e1.png)
+![home](https://user-images.githubusercontent.com/75024926/110207610-8ce82280-7e7c-11eb-8e7b-bf8011ba3aed.png)
+
 
 ### Resume Page
 
-![resume](https://user-images.githubusercontent.com/75024926/110132030-a6c52f00-7dc2-11eb-93af-cc29b7a7266a.png)
+![resume](https://user-images.githubusercontent.com/75024926/110207613-91acd680-7e7c-11eb-88e7-62f425f886ad.png)
+
 
 ### Portfolio page
 
-![portfolio](https://user-images.githubusercontent.com/75024926/110132526-2d7a0c00-7dc3-11eb-851d-2a17fe438f11.png)
+![portfolio](https://user-images.githubusercontent.com/75024926/110207614-96718a80-7e7c-11eb-8ea8-934ba04788af.png)
+
 
 ### Contact page
 
-![contact](https://user-images.githubusercontent.com/75024926/110132755-6ade9980-7dc3-11eb-9880-ac4f94d468eb.png)
+![contact](https://user-images.githubusercontent.com/75024926/110207615-9a9da800-7e7c-11eb-9bad-33ea774c6267.png)
+
 
 ## Known bugs and fixes
 
@@ -254,6 +258,9 @@ I constantly used the W3C Markup Validator and W3C CSS Validator to check for er
 
 * The image on the resume page wasnt centered and drifted to the left when viewed on smaller screens 
   * i added margin: 0 127px to ensure that it would be centered.
+  
+* The markup validator flagged up a line at the begining of my code which was: <html>
+  * Changed this to: <html lang="en">
 
 * The animated skills bar didnt appear to be responsive on mobile devices as it was too small.
   * adjusted the media query for the skills bar to @media max-width: 400px and gave it width of 90% so that it is more apparent and readable to the user. 
