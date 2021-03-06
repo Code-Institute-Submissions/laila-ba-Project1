@@ -225,7 +225,7 @@ padding-bottom:20px;
   height:100%;
   border-radius:50%;
 }
-
+/* Used CodingNepal's youtube video as inspiration for the animated skills bar below: https://www.youtube.com/watch?v=0198ceyTVtg*/
 .skills-bar{
   text-align:left;
   border-radius:10px;
@@ -469,6 +469,7 @@ padding-bottom:100px;
   height:0 auto;
   padding-bottom:40px;
 }
+/* Used Online Tutorials on youtube to help me style the contact form: https://www.youtube.com/watch?v=gggB0Nq5vBk*/
 #contact{
   position:relative;
   min-height:100vh;
