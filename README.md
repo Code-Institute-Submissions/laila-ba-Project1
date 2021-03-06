@@ -265,3 +265,9 @@ I constantly used the W3C Markup Validator and W3C CSS Validator to check for er
   * I fixed this by adding a z-index:10 so that the icons can be selected aswell as the hamburger menu is opened on a smaller device. My mentor helped me correct this issue and explained to me the purpose of a "z-inex".
 
 ## Deployment
+
+This project has been deployed using github pages and i have used the following process to do so:
+
+**Deploying a GitHub Repository via GitHub Pages**
+
+* 
